@@ -1,4 +1,4 @@
-# Port Scanner & Vulnerability Report Generator
+# PortFort: Vulnerability Scanner & Report Generator with Mitigation Steps
 
 ## 📌 What is this project?
 
