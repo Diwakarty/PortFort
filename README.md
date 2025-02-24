@@ -31,7 +31,7 @@ This tool is designed to help **penetration testers, security professionals, and
 
 ## 📽️ Demo Video
 
-*(To be added after upload)*
+https://github.com/user-attachments/assets/6c2e4deb-e50e-461f-a9fd-e9a4f8e8fcbb
 
 ---
 
