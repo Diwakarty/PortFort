@@ -42,7 +42,12 @@ https://github.com/user-attachments/assets/cd37b5d9-2439-4f41-882c-29169103d389
 
 ![5](https://github.com/user-attachments/assets/33bd2e14-4633-4c3c-b2a3-b4bbc6ee7299)
 
+---
 
+## 📽️ Demo Reports
+
+- **PDF Report Demo**: [View Sample Report](https://github.com/Diwakarty/PortFort/blob/main/scan_report.pdf) 📄  
+- **HTML Report Demo**: [View Sample Report]
 ---
 
 ## 🔮 Future Enhancements
