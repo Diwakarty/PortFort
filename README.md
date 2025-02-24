@@ -31,7 +31,7 @@ This tool is designed to help **penetration testers, security professionals, and
 
 ## 📽️ Demo Video
 
-https://github.com/user-attachments/assets/6c2e4deb-e50e-461f-a9fd-e9a4f8e8fcbb
+https://github.com/user-attachments/assets/cd37b5d9-2439-4f41-882c-29169103d389
 
 ---
 
@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/6c2e4deb-e50e-461f-a9fd-e9a4f8e8fcbb
 
 ![4](https://github.com/user-attachments/assets/6ad344f6-ed86-47b6-995a-afc83bae4c26)
 
-[scan_report.pdf](https://github.com/user-attachments/files/18944419/scan_report.pdf)
+![5](https://github.com/user-attachments/assets/33bd2e14-4633-4c3c-b2a3-b4bbc6ee7299)
 
 
 ---
