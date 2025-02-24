@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ### 4️⃣ Run the Scanner
 
 ```bash
-python scanner.py
+python cyber.py
 ```
 
 ### 5️⃣ Enter Target IP or Domain
