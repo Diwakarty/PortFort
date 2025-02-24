@@ -46,8 +46,8 @@ https://github.com/user-attachments/assets/cd37b5d9-2439-4f41-882c-29169103d389
 
 ## 📽️ Demo Reports
 
-- **PDF Report Demo**: [View Sample Report](https://github.com/Diwakarty/PortFort/blob/main/scan_report.pdf) 📄  
-- **HTML Report Demo**: [View Sample Report](https://cdn.jsdelivr.net/gh/Diwakarty/PortFort@main/scan_report.html) 🌐
+- **PDF Report Demo**: [View Sample Report](https://github.com/Diwakarty/PortFort/blob/main/scan_report.pdf) 📄 (This is just a demo report. Future versions will have a more advanced and structured format!)
+
 ---
 
 ## 🔮 Future Enhancements
