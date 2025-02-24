@@ -36,8 +36,12 @@ https://github.com/user-attachments/assets/6c2e4deb-e50e-461f-a9fd-e9a4f8e8fcbb
 ---
 
 ## 🖼️ Screenshots
+![2](https://github.com/user-attachments/assets/b82e9fe9-ad33-4a50-a6c2-d0cb3856654c)
 
-*(To be added after capturing screenshots)*
+![4](https://github.com/user-attachments/assets/6ad344f6-ed86-47b6-995a-afc83bae4c26)
+
+[scan_report.pdf](https://github.com/user-attachments/files/18944419/scan_report.pdf)
+
 
 ---
 
