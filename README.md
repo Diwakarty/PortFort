@@ -100,7 +100,8 @@ Once the program starts, enter the target IP or domain when prompted.
 
 ## 📩 Contact
 
-For any issues or suggestions, open an **issue** reach out via email.
+For any issues or suggestions, open an **issue** reach out via email:
+📧 diw.ig8@gmail.com
 
 ---
 
